@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <!--设置远角-->
+    <corners android:radius="5dp"/>
+ <!--填充颜色-->
+    <solid android:color="@android:color/white"/>
+ <!--
+  设置渐变和边的颜色宽度
+  <gradient
+        android:startColor="#E0FFFF"
+        android:endColor="#E0FFFF"
+       />
+    <stroke
+        android:color="@android:color/black"
+        android:width="1dp"
+        />
+  -->
+
+
+
+</shape>
